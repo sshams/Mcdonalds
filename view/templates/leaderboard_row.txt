@@ -1,0 +1,1 @@
+<score rank="{rank}" name="{name}" points="{points}"></score>
